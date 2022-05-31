@@ -143,49 +143,8 @@
     xhttp.open("GET", "inhalt.json", true);
     xhttp.send();
 
-
-
-
-
-
-    // search states.json and filter it
-/*
-
-
-
-    //SEARCH
-
-    const search = document.getElementById('search');
-    const matchList = document.getElementById('matchList');
-
-
-
-    const searchInhalt = async searchText => { 
-      const res = await fetch('../inhalt.json');
-      const data = await res.json();
-
-    // Get matches to current text input
-
-
-
-    let matches = data.filter(article => {
-      const regex = new RegExp(`^${searchText}`, 'gi');
-      return article.categorie.match(regex) || article.id.match(regex) ;
-    });
-
-    console.log(matches);
-
-    };
-
-    search.addEventListener('input',() => searchInhalt(search.value))
-    ;
-
-
-*/
-
-
-
-
 </script>
+
+
 </body>
 </html>
