@@ -1,0 +1,149 @@
+{
+	"article": [
+        {
+            "title": "Media Event",
+            "subtitle": "CSS, HTML und Javascript",
+			"id": "<i class=\"fab fa-html5 icon is-medium has-text-danger\"></i><i class=\"fab fa-css3-alt icon is-medium has-text-info\"></i><i class=\"fab fa-js icon is-medium has-text-warning\"></i>",
+            "categorie": "<i class=\"fas fa-code mr-1\"></i>Code",
+            "CategoryText": "Code",
+            "description": "Diese Seiten sollen ein schnelles Nachschlagewerk bei den Hürden und Klippen des Webdesigns sein und die eine oder andere Idee zu modernen und sauberen Techniken zünden.",
+            "media": "<i class=\"fas fa-book-open mr-2\"></i> Lesen",
+            "language": "<i class=\"fas fa-globe-africa\"></i> &nbsp;Deutsch",
+            "url": "https://www.mediaevent.de/"
+        },
+        {
+            "title": "HTML & CSS Buch",
+            "subtitle": "Erfolgreich Websites gestalten und programmieren",
+            "id": "<i class=\"fab fa-html5 icon is-medium has-text-danger \"></i><i class=\"fab fa-css3-alt icon is-medium has-text-info \"></i>",
+            "categorie": "<i class=\"fas fa-code mr-1\"></i>Code",
+            "CategoryText": "Code",
+            "description": "HTML und CSS lernen auf die kreative Art: Visuelle Informationen erfassen Sie schneller und intuitiver als lange Texte? Dann ist dieses Buch für Sie gemacht!",
+            "media": "<i class=\"fas fa-book-open mr-2\"></i> Lesen",
+            "language": "<i class=\"fas fa-globe-africa\"></i> &nbsp;Deutsch",
+            "url": "https://www.medimops.de/jon-duckett-html-css-erfolgreich-websites-gestalten-und-programmieren-taschenbuch-M03527760539.html"
+        },
+        {
+            "title": "Javascript Buch",
+            "subtitle": "JavaScript & jQuery: Interaktive Websites entwickeln",
+            "id": "<i class=\"fab fa-js icon is-medium has-text-warning\"></i>",
+            "categorie": "<i class=\"fas fa-code mr-1\"></i>Code",
+            "CategoryText": "Code",
+            "description": "Sie möchten JavaScript und jQuery lernen? Dann ist dieses Buch wie für Sie gemacht, denn durch das außergewöhnliche visuelle Konzept lernen Sie JavaScript besonders leicht und intuitiv.",
+            "media": "<i class=\"fas fa-book-open mr-2\"></i> Lesen",
+            "language": "<i class=\"fas fa-globe-africa\"></i> &nbsp;Deutsch",
+            "url": "https://www.medimops.de/jon-duckett-javascript-jquery-interaktive-websites-entwickeln-taschenbuch-M03527760571.html"
+        },
+        {
+            "title": "Traversy Media",
+            "subtitle": "Tutorials und Crash Kurse",
+            "id": "",
+            "categorie": "<i class=\"fas fa-code mr-1\"></i>Code",
+            "CategoryText": "Code",
+            "description": "Tutorials über Webentwicklung & Programmierung auf einfache und verständliche Art und Weise.",
+            "media": "<i class=\"fas fa-tv mr-2\"></i> Video",
+            "language": "<i class=\"fas fa-globe-africa\"></i> &nbsp;Englisch",
+            "url":"https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA"
+        },
+        {
+            "title": "Tutorialist.io",
+            "subtitle": "Kuratierte Sammlung von Video-Anleitungen für Designer und Entwickler.",
+            "id": "",
+            "categorie": "<i class=\"fas fa-code mr-1\"></i>Code",
+            "CategoryText": "Code",
+            "description": "Auf Tutorialist findet ihr eine von Hand kuratierte Sammlung fachlich korrekter Video-Anleitungen zu vielen Themengebieten, die für Designer und Entwickler geschaffen wurden – quasi die Nadeln im Youtube-Heuhaufen. ",
+            "media": "<i class=\"fas fa-tv mr-2\"></i> Video",
+            "language": "<i class=\"fas fa-globe-africa\"></i> &nbsp;Englisch",
+            "url":"https://www.tutorialist.io/"
+        },
+        {
+            "title": "SelfHTML",
+            "subtitle": "Nachschlagwerk, Forum, Blog",
+            "id": "<i class=\"fab fa-html5 icon is-medium has-text-danger\"></i><i class=\"fab fa-css3-alt icon is-medium has-text-info\"></i><i class=\"fab fa-js icon is-medium has-text-warning\"></i>",
+            "categorie": "<i class=\"fas fa-code mr-1\"></i>Code",
+            "CategoryText": "Code",
+            "description": "Unser Ziel ist es, eine deutschsprachige Dokumentation zu HTML und verwandten Technologien zur Verfügung zu stellen. Die Dokumentation soll Anfänger gemäß dem aktuellen Stand der Technik an die Erstellung von Webseiten heranführen, aber auch Fortgeschrittenen und Profis als verlässliches Nachschlagewerk dienen.",
+            "media": "<i class=\"fas fa-book-open mr-2\"></i> Lesen",
+            "language": "<i class=\"fas fa-globe-africa\"></i> &nbsp;Deutsch",
+            "url":"https://www.selfhtml.org/"
+        },
+        {
+            "title": "w3schools.com",
+            "subtitle": "The World's largest Web Developer Site",
+            "id": "<i class=\"fab fa-html5 icon is-medium has-text-danger\"></i><i class=\"fab fa-css3-alt icon is-medium has-text-info\"></i><i class=\"fab fa-js icon is-medium has-text-warning\"></i>",
+            "categorie": "<i class=\"fas fa-code mr-1\"></i>Code",
+            "CategoryText": "Code",
+            "description": "W3Schools ist eine E-Learning-Webseite für Tutorials und Hilfestellungen in dem Bereich Webentwicklung und Webdesign.",
+            "media": "<i class=\"fas fa-book-open mr-2\"></i> Lesen",
+            "language": "<i class=\"fas fa-globe-africa\"></i> &nbsp;Englisch",
+            "url":"https://www.w3schools.com/"
+        },
+        {
+            "title": "Stackoverflow",
+            "subtitle": "For developers, by developers",
+            "id": "",
+            "categorie": "<i class=\"fas fa-code mr-1\"></i>Code",
+            "CategoryText": "Code",
+            "description": "Bei Stack Overflow handelt es sich um eine Plattform, auf der angemeldete Benutzer Fragen zum Thema Softwareentwicklung stellen können, die von anderen Nutzern beantwortet werden können.",
+            "media": "<i class=\"fas fa-book-open mr-2\"></i> Lesen",
+            "language": "<i class=\"fas fa-globe-africa\"></i> &nbsp;Englisch",
+            "url":"https://stackoverflow.com"
+        },
+        {
+            "title": "MDN Webdocs",
+            "subtitle": "Informationen für Entwickler von Entwicklern.",
+            "id": "<i class=\"fab fa-html5 icon is-medium has-text-danger\"></i><i class=\"fab fa-css3-alt icon is-medium has-text-info\"></i><i class=\"fab fa-js icon is-medium has-text-warning\"></i>",
+            "categorie": "<i class=\"fas fa-code mr-1\"></i>Code",
+            "CategoryText": "Code",
+            "description": "Mozilla Developer Network -  Web Docs bietet Informationen zu Open-Web-Technologien wie HTML, CSS und APIs für Websites und fortschrittliche Web-Apps.",
+            "media": "<i class=\"fas fa-book-open mr-2\"></i> Lesen",
+            "language": "<i class=\"fas fa-globe-africa\"></i> &nbsp;Deutsch/Englisch",
+            "url":"https://developer.mozilla.org/de/"
+        },
+        {
+            "title": "HTML Reference",
+            "subtitle": "Leifaden zu allen HTML Elementen und Attributen",
+            "id": "<i class=\"fab fa-html5 icon is-medium has-text-danger\"></i>",
+            "categorie": "<i class=\"fas fa-code mr-1\"></i>Code",
+            "CategoryText": "Code",
+            "description": "htmlreference.io ist ein kostenloser Leitfaden für HTML. Er enthält alle Elemente und Attribute.",
+            "media": "<i class=\"fas fa-book-open mr-2\"></i> Lesen",
+            "language": "<i class=\"fas fa-globe-africa\"></i> &nbsp;Englisch",
+            "url":"https://htmlreference.io/"
+        },
+        {
+            "title": "CSS Reference",
+            "subtitle": "Ein kostenloser visueller Leitfaden zu CSS",
+            "id": "<i class=\"fab fa-css3-alt icon is-medium has-text-info\"></i>",
+            "categorie": "<i class=\"fas fa-code mr-1\"></i>Code",
+            "CategoryText": "Code",
+            "description": "cssreference.io ist ein kostenloser visueller Leitfaden für CSS. Er enthält die beliebtesten Eigenschaften und erklärt sie mit illustrierten und animierten Beispielen.",
+            "media": "<i class=\"fas fa-book-open mr-2\"></i> Lesen",
+            "language": "<i class=\"fas fa-globe-africa\"></i> &nbsp;Englisch",
+            "url":"https://cssreference.io/"
+        },
+        {
+            "title": "Web Design in 4 minutes",
+            "subtitle": "Innovatives Tutorial",
+            "id": "<i class=\"fab fa-html5 icon is-medium has-text-danger\"></i><i class=\"fab fa-css3-alt icon is-medium has-text-info\"></i>",
+            "categorie": "<i class=\"fas fa-code mr-1\"></i>Code",
+            "CategoryText": "Code",
+            "description": "Lerne auf innovative Art und Weise eine einfache Website zu erstellen",
+            "media": "<i class=\"fas fa-book-open mr-2\"></i> Lesen",
+            "language": "<i class=\"fas fa-globe-africa\"></i> &nbsp;Englisch",
+            "url":"https://jgthms.com/web-design-in-4-minutes/"
+        },
+        {
+            "title": "Javascript in 14 minutes",
+            "subtitle": "Innovatives Tutorial",
+            "id": "</i><i class=\"fab fa-js icon is-medium has-text-warning\"></i>",
+            "categorie": "<i class=\"fas fa-code mr-1\"></i>Code",
+            "CategoryText": "Code",
+            "description": "Lerne auf innovative Art und Weise die Grundlagen von Javascript",
+            "media": "<i class=\"fas fa-book-open mr-2\"></i> Lesen",
+            "language": "<i class=\"fas fa-globe-africa\"></i> &nbsp;Englisch",
+            "url":"https://jgthms.com/javascript-in-14-minutes/"
+        }
+        
+
+	]
+}
