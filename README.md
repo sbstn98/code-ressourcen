@@ -4,7 +4,7 @@ A responsive website for ressources of Web Development, build with bulma.io Fram
 
 Functions:
 
-- Load and dipslay data from an JSON File
+- Load and display data from an JSON File
 
 Used Technologies:
 
