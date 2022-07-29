@@ -1,4 +1,4 @@
-#coderessourcen
+#Code-Ressourcen
 
 A responsive website for ressources of Web Development, build with bulma.io Framework and Vanilla Javascript.
 
