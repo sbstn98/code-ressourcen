@@ -1,6 +1,6 @@
 #coderessourcen
 
-A website for ressources of webdevelopment, build with bulma.io Framework and Vanilla Javascript.
+A responsive website for ressources of Web Development, build with bulma.io Framework and Vanilla Javascript.
 
 Functions:
 
