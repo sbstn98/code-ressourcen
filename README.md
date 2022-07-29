@@ -1,6 +1,6 @@
 #Code-Ressourcen
 
-A responsive website for ressources of Web Development, build with bulma.io Framework and Vanilla Javascript.
+A responsive website for ressources of Web Development, build with bulma.io Framework and Vanilla JavaScript.
 
 Functions:
 
@@ -10,6 +10,6 @@ Used Technologies:
 
 - HTML
 - CSS
-- Vanilla Javascript
+- Vanilla JavaScript
 - JSON
 
