@@ -12,4 +12,5 @@ Used Technologies:
 - CSS
 - Vanilla JavaScript
 - JSON
+- bulma.io
 
