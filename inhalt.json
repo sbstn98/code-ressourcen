@@ -142,6 +142,28 @@
             "media": "<i class=\"fas fa-book-open mr-2\"></i> Lesen",
             "language": "<i class=\"fas fa-globe-africa\"></i> &nbsp;Englisch",
             "url":"https://jgthms.com/javascript-in-14-minutes/"
+        },
+		{
+            "title": "freeCodeCamp",
+            "subtitle": "Learn to Code - for free",
+            "id": "<i class=\"fab fa-html5 icon is-medium has-text-danger\"></i><i class=\"fab fa-css3-alt icon is-medium has-text-info\"></i><i class=\"fab fa-js icon is-medium has-text-warning\"></i>",
+            "categorie": "<i class=\"fas fa-code mr-1\"></i>Code",
+            "CategoryText": "Code",
+            "description": "freeCodeCanmp ist eine interaktive Plattform um das Programmieren zu lernen. Es gibt die Möglichkeit verschiedene Zertifikate abzuschliessen u.a. Responsive Web Design, Javascript, Front End Development React und viele mehr.",
+            "media": "<i class=\"fas fa-tv mr-2\"></i> Interaktiv",
+            "language": "<i class=\"fas fa-globe-africa\"></i> &nbsp;Englisch",
+            "url":"https://www.freecodecamp.org/"
+        },
+		{
+            "title": "Flexbox Froggy",
+            "subtitle": "Flexbox Game",
+            "id": "<i class=\"fab fa-css3-alt icon is-medium has-text-info\"></i>",
+            "categorie": "<i class=\"fas fa-code mr-1\"></i>Code",
+            "CategoryText": "Code",
+            "description": "Willkommen bei Flexbox Froggy, einem Spiel, in dem du Froggy und seinen Freunden hilfst, indem du CSS-Code schreibst! ",
+            "media": "<i class=\"fas fa-tv mr-2\"></i> Interaktiv",
+            "language": "<i class=\"fas fa-globe-africa\"></i> &nbsp;Deutsch",
+            "url":"https://flexboxfroggy.com/"
         }
         
 
